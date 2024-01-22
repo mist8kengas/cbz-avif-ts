@@ -1,0 +1,6 @@
+.env
+.refs/*
+bin/*
+dist/*
+node_modules
+*.tsbuildinfo
